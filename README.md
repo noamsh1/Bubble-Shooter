@@ -5,3 +5,5 @@ Features:
 - Shooting bubbles that bounce from the borders of the screen. Each shot bubble snaps to the closest free bubble grid slot to the point of impact with another bubble.
 - Bubbles that form a 3 or more bubble chain, or bubbles that were left hanging without a connection to the ceiling, are popped.
 - UI with score counter and pause menu.
+
+To play the game, download "BubblePopper.apk" to your mobile andriod device.
